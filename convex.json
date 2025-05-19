@@ -1,0 +1,6 @@
+{
+  "projectConfig": {
+    "functions": "convex/",
+    "authInfo": "./convex/_generated/server.js"
+  }
+}
