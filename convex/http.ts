@@ -135,7 +135,7 @@ function validateDietPlan(plan: any) {
 }
 
 http.route({
-  path: "/vapi/generate-program",
+  path: "/vapi/new-program",
   method: "POST",
   handler: httpAction(async (ctx, request) => {
     try {
