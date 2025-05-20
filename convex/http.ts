@@ -104,6 +104,7 @@ handler: httpAction(async (ctx, request) => {
 }),
 });
 
+// TODO: validate webhook @ VAPI
 // validate and fix workout plan to ensure it has proper numeric types
 function validateWorkoutPlan(plan: any) {
   const validatedPlan = {

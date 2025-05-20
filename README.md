@@ -90,11 +90,12 @@ Current progress based on our backlog:
 - ✅ Voice Agent setup using Vapi
 - ✅ Database setup with Convex
 - ✅ Webhook configuration
-- 🔄 Building homescreen UI with Shadcn (in progress)
-- 📝 New program page (planned)
-- 📝 AI workflow implementation (planned)
-- 📝 Profile page development (planned)
+- ✅ Building homescreen UI with Shadcn 
+- ✅ New program page
+- ✅ AI workflow implementation
+- 🔄 Profile page development (in progress)
 - 📝 Final optimizations (planned)
+- 📝 Vapi workflow configuration to trigget webhook (planned)
 - 📝 Deployment (planned)
 
 ## 🧪 Testing
